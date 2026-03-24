@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぱんださん",
+  "base_artist": "いぎなり東北産",
+  "createdAt": "2026-03-24T03:26:31.059747Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぱんださん",
+      "artist": "いぎなり東北産",
+      "has_synced": false,
+      "path": "select/pl_01_ぱんださん_いぎなり東北産.txt"
+    }
+  ]
+}
